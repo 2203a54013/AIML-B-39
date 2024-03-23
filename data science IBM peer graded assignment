@@ -1,0 +1,203 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPf6M6+Gv8IKED/JTxzMy2S",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/2203a54013/AIML-B-39/blob/main/data%20science%20IBM%20peer%20graded%20assignment\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "DvwbWTwhuDIA"
+      },
+      "outputs": [],
+      "source": [
+        "# Title of the Notebook\n",
+        "first project\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Introduction\n",
+        "This notebook will cover the basics of data science including languages, libraries, and tools.\n"
+      ],
+      "metadata": {
+        "id": "xUOInKw5uUC9"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Data Science Languages\n",
+        "1. Python\n",
+        "2. R\n",
+        "3. SQL\n",
+        "4. Julia\n",
+        "5. SAS\n"
+      ],
+      "metadata": {
+        "id": "G5mwk2cNuWy5"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Data Science Libraries\n",
+        "1. Pandas (Python)\n",
+        "2. NumPy (Python)\n",
+        "3. Matplotlib (Python)\n",
+        "4. ggplot2 (R)\n",
+        "5. dplyr (R)\n"
+      ],
+      "metadata": {
+        "id": "22BIOXySuZ5J"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Data Science Tools\n",
+        "\n",
+        "| Tool | Description |\n",
+        "| --- | --- |\n",
+        "| Jupyter Notebook | An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. |\n",
+        "| Tableau | A powerful data visualization tool used in the Business Intelligence Industry. |\n",
+        "| Excel | A spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. |\n",
+        "| SQL | A standard language for managing data held in a relational database management system. |\n"
+      ],
+      "metadata": {
+        "id": "KD_P4IW2ub5H"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Arithmetic Expression Examples\n",
+        "1. Addition: `3 + 2 = 5`\n",
+        "2. Subtraction: `3 - 2 = 1`\n",
+        "3. Multiplication: `3 * 2 = 6`\n",
+        "4. Division: `3 / 2 = 1.5`\n"
+      ],
+      "metadata": {
+        "id": "E4PShRsoueOh"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Multiplication\n",
+        "product = 7 * 3\n",
+        "print(f\"Multiplication Result: {product}\")\n",
+        "\n",
+        "# Addition\n",
+        "sum = 7 + 3\n",
+        "print(f\"Addition Result: {sum}\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "l2JYVq2uuizm",
+        "outputId": "f3d1585d-d65f-426b-a4b5-7d1bd5b589da"
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Multiplication Result: 21\n",
+            "Addition Result: 10\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Conversion of minutes to hours\n",
+        "minutes = 120\n",
+        "hours = minutes / 60\n",
+        "print(f\"{minutes} minutes is equal to {hours} hours.\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "lpK-FC1xuqNR",
+        "outputId": "219e200a-f7da-4561-c0c1-9ded6a89c250"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "120 minutes is equal to 2.0 hours.\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Objectives\n",
+        "1. Understand the basics of data science.\n",
+        "2. Learn about different data science languages and libraries.\n",
+        "3. Get hands-on experience with Jupyter Notebook.\n",
+        "4. Share work through GitHub.\n"
+      ],
+      "metadata": {
+        "id": "_FgbWxA0ux-O"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "## Author\n",
+        "Your Name\n",
+        "Vishnu Vardhan Mamidisetti"
+      ],
+      "metadata": {
+        "id": "Uvh-xLsduzCK"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
